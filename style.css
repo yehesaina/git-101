@@ -1,8 +1,10 @@
 body {
 	margin: 0;
 	font-family: Helvetica;
+	background-color: black;
 }
 h1 {
+	color: white;
 	font-weight: lighter;
 }
 #logo {
